@@ -1,1 +1,1 @@
-﻿# gitdemo
+# gitdemo
